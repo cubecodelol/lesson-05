@@ -1,0 +1,21 @@
+.HI {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.HA {
+    text-align: center;
+}
+
+.HEAD {
+    background-color: rgb(109, 150, 230);
+}
+
+.HAH {
+    color: whitesmoke;
+}
+
+.sp {
+    color: rgb(70, 100, 150);
+}
